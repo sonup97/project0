@@ -1,0 +1,111 @@
+.body-cont{
+
+    
+}
+
+.google-img-div{
+  padding-top: 155px;
+     
+}
+.google-img{
+  height: 92px;
+    width: 272px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.form-main{
+}
+.form-div{
+  display: block;
+  margin-top: 20px;
+}
+.text{
+  display: block;
+  width: 582px;
+  height: 44px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  border: 0.5px solid gray;
+  padding: 20px
+}
+.submit{
+  width: 127.41px;
+  height: 36px;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+.submit:hover,.RNmpXc:hover{
+  border: 1px solid gray;
+
+}
+
+.submit1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#sub-div{
+display: flex;
+margin-left: auto;
+margin-right: auto;
+justify-content: center;
+padding: 10px;
+
+}
+.RNmpXc{
+height: 36px;
+border-radius: 5px;
+border: 1px solid white;
+margin-left: 10px;
+}
+    
+.adv-img{
+  margin-top: 5px;
+  float: left;
+  height: 33px;
+  width: 92px;
+  margin-left: 10px;
+}
+.adv-div{
+  background-color: gainsboro;
+  height: 60px;
+  padding-top: 10px;
+  
+}
+.adv-head{
+  color: red;
+  font-family:Verdana, sans-serif;
+  padding: 20px;
+}
+
+.form-div1{
+
+}
+.form-label{
+  
+}
+
+.form-label1{
+}
+
+.adv-submit-div{
+  display: inline-block;
+  float: right;
+}
+.adv-submit{
+  background-color: #4C8EFB;
+  color: white;
+  border: 1px solid #4C8EFB;
+  font-weight: 100;
+  border-radius: 3px;
+  height:30px;
+  margin-right: 100px;
+}
+.adv-submit:hover{
+  background-color: rgb(57, 128, 241)
+
+}
