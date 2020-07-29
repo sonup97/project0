@@ -134,21 +134,9 @@ margin-left: 10px;
 
   }
 }
-@media screen and (max-width:320px){
-  .nav-mo{
-    margin-top: 50px;
 
-  
-  }
-  .nav-sub{
-    display: inline;
-    margin-top: 30px;
-    font-size: 12px;
 
-  }
-}
-
-@media screen and (max-width:425px){
+@media screen and (max-width:375px){
   .nav-mo{
     margin-top: 50px;
     margin-right: 30px;
@@ -161,6 +149,20 @@ margin-left: 10px;
   .nav-sub{
     display: inline;
     font-size: 15px;
+
+  }
+}
+
+@media screen and (max-width:320px){
+  .nav-mo{
+    margin-top: 50px;
+
+  
+  }
+  .nav-sub{
+    display: inline;
+    margin-top: 30px;
+    font-size: 12px;
 
   }
 }
